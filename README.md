@@ -6,3 +6,7 @@
 ## Copyright and License
 
 Copyright 2017 Lwin Moe. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/blob/gh-pages/LICENSE) license.
+
+## Credits
+
+Template adapted from https://onepagelove.com/verum
