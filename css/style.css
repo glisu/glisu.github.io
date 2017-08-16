@@ -1,5 +1,12 @@
+@font-face {
+    font-family: 'NotoSansLisu-Regular';
+    src: url('/fonts/NotoSansLisu-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body, html {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Open Sans', sans-serif, 'NotoSansLisu-Regular';
 	text-rendering: optimizeLegibility !important;
 	-webkit-font-smoothing: antialiased !important;
 	color: #656c6d;
@@ -34,7 +41,7 @@ p.intro {
 	font-size: 16px;
 	margin: 12px 0 0;
 	line-height: 24px;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Open Sans', sans-serif, 'NotoSansLisu-Regular';
 }
 a {
 	color: #333;
@@ -540,7 +547,7 @@ ol.type li a:hover {
 label {
 	font-size: 12px;
 	font-weight: 400;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Open Sans', sans-serif, 'NotoSansLisu-Regular';
 	float: left;
 }
 #contact .form-control {
@@ -652,7 +659,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	max-width: 75%;
 }
 .intro .intro-text p {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Lato', sans-serif, 'NotoSansLisu-Regular';
 	font-size: 20px;
 	margin-bottom: 40px;
 	margin-top: 20px;
