@@ -1,6 +1,6 @@
-# Global Lisu Unity Area
+# Global Lisu Unity Arena
 
-## This is the source code repo for Global Lisu Unity Area.
+## This is the source code repo for Global Lisu Unity Arena.
 [http://glisu.github.io](http://glisu.github.io)
 
 ## Copyright and License
