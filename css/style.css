@@ -9,7 +9,7 @@ body, html {
 	font-family: 'Open Sans', sans-serif, 'NotoSansLisu-Regular';
 	text-rendering: optimizeLegibility !important;
 	-webkit-font-smoothing: antialiased !important;
-	color: #656c6d;
+  color: #000000; /* #656c6d */
 	width: 100% !important;
 	height: 100% !important;
 }
